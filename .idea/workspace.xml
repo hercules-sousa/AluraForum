@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22f83e75-d85f-4776-b7a4-5448af99b359" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/alura/forum/modelo/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/alura/forum/modelo/Resposta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/alura/forum/modelo/StatusTopico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/alura/forum/modelo/Topico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/alura/forum/modelo/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/alura/forum/controller/dto/TopicoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/alura/forum/controller/TopicoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/alura/forum/controller/TopicosController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/alura/forum/controller/TopicoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/alura/forum/controller/TopicoController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +50,13 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/alura/forum/modelo" />
+    <property name="last_opened_file_path" value="$USER_HOME$/dados/workspace/poc-syn4tdf-automacao" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -108,6 +114,8 @@
       <updated>1657067910843</updated>
       <workItem from="1657067911912" duration="149000" />
       <workItem from="1657068070854" duration="303000" />
+      <workItem from="1657128025143" duration="33000" />
+      <workItem from="1662124097181" duration="1028000" />
     </task>
     <servers />
   </component>
